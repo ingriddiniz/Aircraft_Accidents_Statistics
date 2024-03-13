@@ -1,2 +1,3 @@
-# Aircraft_Accidents_Statistics
-Statistical Analysis of Aircraft Accidents
+# Statistical Analysis of Brazilian Air Force Aircraft Occurrences
+## Complete Project
+Jupyter Notebook - [occurrences_analysis.ipynb](occurrences_analysis.ipynb)
